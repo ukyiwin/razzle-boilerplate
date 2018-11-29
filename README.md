@@ -1,11 +1,20 @@
-# Razzle React Loadable Example
+# Razzle Boilerplate
+
+## Features
+
+- [x] react-loadable
+- [x] react-router-dom
+- [x] react-helmet (title have a template, you can disable it in App.js file)
+- [x] redux
+- [x] gzip and brotli compression (you can disable it. check razzle.config.js and server.js files)
 
 ## How to use
-Download the example [or clone the whole project](https://github.com/jaredpalmer/razzle.git):
+
+Download the example [or clone the whole project](https://github.com/SorEduard/razzle-boilerplate.git):
 
 ```bash
-curl https://codeload.github.com/jaredpalmer/razzle/tar.gz/master | tar -xz --strip=2 razzle-master/examples/with-react-loadable
-cd with-react-loadable
+git clone
+cd razzle-boilerplate
 ```
 
 Install it and run:
@@ -14,7 +23,3 @@ Install it and run:
 yarn install
 yarn start
 ```
-
-## Idea behind the example
-This sample has the full SSR setup as described in the [react-loadable docs](https://github.com/thejameskyle/react-loadable#--------------server-side-rendering).
-It demonstrates simple dynamic imports using [react-loadable](https://github.com/thejameskyle/react-loadable) on top of SSR with razzle.
