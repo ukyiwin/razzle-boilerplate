@@ -10,10 +10,10 @@
 
 ## How to use
 
-Download the example [or clone the whole project](https://github.com/SorEduard/razzle-boilerplate.git):
+Download the example or clone:
 
 ```bash
-git clone
+git clone https://github.com/SorEduard/razzle-boilerplate.git
 cd razzle-boilerplate
 ```
 
