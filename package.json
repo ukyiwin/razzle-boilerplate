@@ -1,7 +1,8 @@
 {
   "name": "razzle-boilerplate",
-  "version": "2.4.0",
+  "version": "1.0.0",
   "license": "MIT",
+  "author": "Carlos Eduardo <ceo.paludetto@gmail.com>",
   "scripts": {
     "start": "razzle start",
     "build": "razzle build",
